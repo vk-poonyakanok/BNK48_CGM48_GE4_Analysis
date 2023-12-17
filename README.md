@@ -1,2 +1,30 @@
-# BNK48_CGM48_GE4_Analysis
- A data-driven exploration and predictive modeling project focused on the BNK48 & CGM48 16th Single General Election. Utilizing regression and machine learning techniques, such as XGBoost and LightGBM, to forecast election results and analyze feature importance. This repository serves as a hub for the codebase, analysis notebooks, and insights derived from the data provided by @Stats48TH on Twitter.
+# BNK48 & CGM48 16th Single General Election (GE4) Analysis
+
+## Overview
+This repository contains data analysis, scraping scripts, and machine learning models aimed at predicting the outcomes of the BNK48 & CGM48 16th Single General Election. The data is sourced from [@Stats48TH](https://twitter.com/Stats48TH), which provides unofficial statistics for BNK48 & CGM48 members.
+
+## Project Description
+The goal of this project is to build predictive models using techniques such as Regression, XGBoost, and LightGBM to forecast election results and determine feature importance. This analysis will contribute to a deeper understanding of factors influencing the election outcomes.
+
+## Data Source
+The datasets used in this project are collected from unofficial sources and are meant for educational and exploratory purposes.
+
+## Models
+- **Regression**: To estimate the relationship between the predictors and the election results.
+- **XGBoost**: A gradient boosting framework used to model the intricacies within the data.
+- **LightGBM**: A fast, distributed, high-performance gradient boosting framework based on decision tree algorithms.
+
+## Feature Importance
+An analysis of feature importance to understand which factors are most influential in predicting the election outcomes.
+
+## Usage
+Instructions for setting up, processing data, and running the models will be added here.
+
+## License
+This project is open-sourced under the MIT license.
+
+## Acknowledgments
+A special thanks to [@Stats48TH](https://twitter.com/Stats48TH) for compiling and sharing the data that made this analysis possible.
+
+## Disclaimer
+This project is not affiliated with BNK48, CGM48, or their management companies. It is an independent project for personal research and educational purposes only.
