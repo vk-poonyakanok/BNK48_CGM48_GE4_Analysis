@@ -5,7 +5,7 @@
 *Image Source: [BNK48 Official YouTube Video](https://www.youtube.com/watch?v=4EGrHyXIvf0)*
 
 ## Overview
-This repository contains data analysis, scraping scripts, and machine learning models aimed at predicting the outcomes of the BNK48 & CGM48 16th Single General Election. The data is sourced from [@Stats48TH](https://twitter.com/Stats48TH) and Wikipedia, which provides unofficial statistics for BNK48 & CGM48 members.
+This repository contains data analysis, scraping scripts, and machine learning models aimed at predicting the outcomes of the BNK48 & CGM48 16th Single General Election. The data is sourced from the [@Stats48TH](https://twitter.com/Stats48TH) Twitter account, as well as from Wikipedia pages for the [3rd General Election for 12th Single](https://th.wikipedia.org/wiki/การเลือกตั้งทั่วไปเซ็มบัตสึบีเอ็นเคโฟร์ตีเอต_ประจำซิงเกิลที่_12) and the [4th General Election for 16th Single](https://th.wikipedia.org/wiki/การเลือกตั้งทั่วไปเซ็มบัตสึบีเอ็นเคโฟร์ตีเอต_ประจำซิงเกิลที่_16), which provide unofficial statistics for BNK48 & CGM48 members.
 
 ## Project Description
 The goal of this project is to build predictive models using techniques such as Regression, XGBoost, and LightGBM to forecast election results and determine feature importance. This analysis will contribute to a deeper understanding of factors influencing the election outcomes.
