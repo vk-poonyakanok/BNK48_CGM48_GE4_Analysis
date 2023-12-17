@@ -1,5 +1,9 @@
 # BNK48 & CGM48 16th Single General Election (GE4) Analysis
 
+![GE4 General Election Banner](GE4banner.jpeg)
+
+*Image Source: [BNK48 Official YouTube Video](https://www.youtube.com/watch?v=4EGrHyXIvf0)*
+
 ## Overview
 This repository contains data analysis, scraping scripts, and machine learning models aimed at predicting the outcomes of the BNK48 & CGM48 16th Single General Election. The data is sourced from [@Stats48TH](https://twitter.com/Stats48TH), which provides unofficial statistics for BNK48 & CGM48 members.
 
