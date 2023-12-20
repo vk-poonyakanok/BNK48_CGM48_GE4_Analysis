@@ -14,7 +14,7 @@ The goal of this project is to build predictive models using techniques such as 
 The datasets used in this project are collected from unofficial sources and are meant for educational and exploratory purposes.
 
 ## Models
-- **Regression**: To estimate the relationship between the predictors and the election results.
+- **Random Forest**: To estimate the relationship between the predictors and the election results.
 - **XGBoost**: A gradient boosting framework used to model the intricacies within the data.
 - **LightGBM**: A fast, distributed, high-performance gradient boosting framework based on decision tree algorithms.
 
