@@ -10,6 +10,8 @@ This repository contains data analysis, scraping scripts, and machine learning m
 ## Project Description
 The goal of this project is to build predictive models using techniques such as Regression, XGBoost, and LightGBM to forecast election results and determine feature importance. This analysis will contribute to a deeper understanding of factors influencing the election outcomes.
 
+[Predictive Analysis of BNK48 & CGM48's 16th Single General Election](https://github.com/vk-poonyakanok/BNK48_CGM48_GE4_Analysis/blob/main/BNK48_CGM48_GE4_predictive_analysis.ipynb) Jupyter Notebook
+
 ## Data Source
 The datasets used in this project are collected from unofficial sources and are meant for educational and exploratory purposes.
 
@@ -20,9 +22,6 @@ The datasets used in this project are collected from unofficial sources and are 
 
 ## Feature Importance
 An analysis of feature importance to understand which factors are most influential in predicting the election outcomes.
-
-## Usage
-Instructions for setting up, processing data, and running the models will be added here.
 
 ## License
 This project is open-sourced under the MIT license.
